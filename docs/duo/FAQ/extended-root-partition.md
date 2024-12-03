@@ -9,7 +9,7 @@ sidebar_position: 40
 
 ### Check current disk usage
 
-Run command ` df - h ` to view current disk partitions and usage.
+Run command ` df -h ` to view current disk partitions and usage.
 
 ```
 [root@milkv-duo]~# df -h
@@ -103,7 +103,7 @@ Partition #3 contains a ext4 signature.
 Do you want to remove the signature? [Y]es/[N]o: N
 
 ```
-Note: If Do you want to remove the signature? [Y]es/[N]o appears, select N.
+Note: If Do you want to remove the signature? [Y]es/[N]o appears, select Y.
 
 4. Save changes
 
